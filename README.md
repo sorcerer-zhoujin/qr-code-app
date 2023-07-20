@@ -10,8 +10,12 @@
 
 ### インストール
 
-`npm install`
+```
+npm install
+```
 
 ### サーバーを起動
 
-`npm start`
+```
+npm start
+```
